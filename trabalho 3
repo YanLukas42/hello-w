@@ -1,0 +1,13 @@
+| Papel (WHO) | Requisito (WHAT)                                | Motivo (WHY)                                         |
+|-------------|--------------------------------------------------|-------------------------------------------------------|
+| Professor   | Registrar novos livros no sistema               | Para controlar o acervo e evitar perdas               |
+| Professor   | Ver o histórico de empréstimos dos alunos       | Para identificar quem está com cada livro             |
+| Professor   | Receber alertas de atraso                       | Para cobrar devoluções no prazo                      |
+| Professor   | Bloquear novos empréstimos de alunos inadimplentes | Para evitar prejuízos ao acervo                      |
+| Aluno       | Consultar os livros disponíveis                 | Para saber o que posso pegar emprestado               |
+| Aluno       | Solicitar empréstimo de um livro                | Para poder estudar com o material necessário          |
+| Aluno       | Receber lembrete de devolução                   | Para não esquecer e evitar problemas                  |
+| Aluno       | Ver seu histórico de empréstimos                | Para acompanhar o que já leu e o que está pendente    |
+
+
+
