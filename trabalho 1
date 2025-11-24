@@ -1,0 +1,11 @@
+| Stakeholder                 | Tipo (Interno/Externo) | Interesse Principal                               | Nível de Poder | Nível de Interesse | Estratégia de Gestão                |
+|-----------------------------|-------------------------|----------------------------------------------------|-----------------|---------------------|--------------------------------------|
+| Dono da Livraria           | Interno                 | Lucro, expansão e reputação                        | Alto            | Alto                | Manter satisfeito e engajado         |
+| Funcionários               | Interno                 | Condições de trabalho, salário e estabilidade      | Médio           | Alto                | Manter informados e motivados        |
+| Fornecedores de Livros     | Externo                 | Vendas, parceria contínua                          | Médio           | Médio               | Relacionamento de cooperação         |
+| Clientes                   | Externo                 | Preço, qualidade e disponibilidade de produtos     | Baixo           | Alto                | Manter satisfeitos                   |
+| Editores e Distribuidoras  | Externo                 | Contratos e distribuição de títulos                | Alto            | Médio               | Construir parcerias estratégicas      |
+| Bancos e Financeiras       | Externo                 | Empréstimos e fluxo financeiro                     | Alto            | Baixo               | Monitorar                            |
+| Concorrentes               | Externo                 | Competitividade e participação no mercado          | Médio           | Médio               | Manter monitoramento                 |
+| Comunidade Local           | Externo                 | Responsabilidade social e impacto cultural         | Baixo           | Médio               | Manter informada                     |
+| Governo e Órgãos Reguladores| Externo                | Cumprimento das leis e normas                      | Alto            | Baixo               | Monitorar e cumprir exigências       |
